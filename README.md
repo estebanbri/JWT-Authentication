@@ -15,5 +15,5 @@ En el body del request definir el objeto json:
 
 Luego con el token JWT obtenido en el header del response, agregarlo en el header de los request como value del header con key Authorization.
 
->Bearer <endode_token>
+>Bearer <encoded_token>
 
